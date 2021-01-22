@@ -1,0 +1,12 @@
+You can run this program from the command line by ./TODO and the entering one of the following options:
+
+./TODO add [date] [task]
+./TODO add Sunday “Take a nap”
+
+./TODO remove [task]
+./TODO remove “Take a nap”
+
+./TODO printList
+
+./TODO printDay [day]
+./TODO printDay Sunday
